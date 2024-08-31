@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="left">👋 Olá! Meu nome é David!<br>📝 Estou estudando Desenvolvimento Full-Stack.<br>🛠 Atualmente estou trabalhando em projetos pessoais e buscando novas oportunidades.</h2>
+<h2 align="left">👋 Olá! Meu nome é David!<br>📝 Desenvolvimento Full-Stack.<br>🛠 Atualmente estou trabalhando em projetos pessoais e buscando novas oportunidades.</h2>
 
 ###
 
