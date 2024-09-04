@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="left">👋 Olá! Meu nome é David!<br>📝 Desenvolvimento Full-Stack.<br>🛠 Atualmente estou trabalhando em projetos pessoais e buscando novas oportunidades.</h2>
+<h2 align="left">👋 Olá! Meu nome é David!<br>📝 Estou estudando Desenvolvimento Full-Stack.<br>🛠 Atualmente estou trabalhando em projetos pessoais e buscando novas oportunidades.</h2>
 
 ###
 
@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidDevFull&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=DavidDevFull&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidDevFull&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidDevFull&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=DavidDevFull&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidDevFull&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
