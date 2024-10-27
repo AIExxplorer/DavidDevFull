@@ -47,9 +47,3 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
-<img align="right" height="300" src="https://files.passeidireto.com/4d265a9b-af51-41e9-a650-21ca1f739e68/4d265a9b-af51-41e9-a650-21ca1f739e68.jpeg"  />
-
-###
-
-###
