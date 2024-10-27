@@ -53,9 +53,3 @@ Here are some ideas to get you started:
 ###
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/DavidDevFull/count.svg?"  />
-</div>
-
-###
